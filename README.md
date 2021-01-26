@@ -6,7 +6,7 @@
 安装项目所有组件
 运行npm run serve
 
-后端项目地址：[https://github.com/p1aCoder/CSPT-Forend](https://github.com/p1aCoder/CSPT-Forend)
+后端项目地址：[https://github.com/p1aCoder/CSPT-Backend](https://github.com/p1aCoder/CSPT-Forend)
 
 ## Project setup
 ```
