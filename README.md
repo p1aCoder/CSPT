@@ -1,5 +1,13 @@
 # try
 
+药物警戒术语搜集系统
+前端部署(基于vue)
+打开try项目
+安装项目所有组件
+运行npm run serve
+
+后端项目地址：[https://github.com/p1aCoder/CSPT-Forend](https://github.com/p1aCoder/CSPT-Forend)
+
 ## Project setup
 ```
 npm install
