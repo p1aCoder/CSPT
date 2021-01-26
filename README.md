@@ -1,7 +1,7 @@
 
 # 药物警戒术语搜集系统-前端
 
-前端部署(基于vue)
+## 前端部署(基于vue)
 
 1 打开前端项目
 
@@ -12,7 +12,6 @@
 4 访问8080端口
 
 此为前后端分离项目，所用技术栈为mongoDB+springboot+Vue
-
 后端项目地址：[https://github.com/p1aCoder/CSPT-Backend](https://github.com/p1aCoder/CSPT-Backend)
 
 该项目首先使用scrapy框架爬取某医学网站的疾病、药物以及使用禁忌等来构建知识图谱，并展示
