@@ -12,7 +12,7 @@
 
 5 访问8080端口
 
-后端项目地址：[https://github.com/p1aCoder/CSPT-Backend](https://github.com/p1aCoder/CSPT-Forend)
+后端项目地址：[https://github.com/p1aCoder/CSPT-Backend](https://github.com/p1aCoder/CSPT-Backend)
 
 ## Project setup
 ```
