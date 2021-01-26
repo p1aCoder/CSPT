@@ -1,15 +1,17 @@
 
 # 药物警戒术语搜集系统-前端
 
-1 前端部署(基于vue)
+前端部署(基于vue)
 
-2 打开try项目
+1 打开前端项目
 
-3 安装前端项目所有组件
+2 安装前端项目所有组件
 
-4 运行npm run serve
+3 运行npm run serve
 
-5 访问8080端口
+4 访问8080端口
+
+此为前后端分离项目，所用技术栈为mongoDB+springboot+Vue
 
 后端项目地址：[https://github.com/p1aCoder/CSPT-Backend](https://github.com/p1aCoder/CSPT-Backend)
 
