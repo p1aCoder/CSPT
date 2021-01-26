@@ -14,9 +14,11 @@
 
 后端项目地址：[https://github.com/p1aCoder/CSPT-Backend](https://github.com/p1aCoder/CSPT-Backend)
 
-![Alt text](https://github.com/p1aCoder/CSPT-Forend/blob/master/total.png)
+#该项目首先使用scrapy框架爬取某医学网站的疾病、药物以及使用禁忌等来构建知识图谱，并展示
+![总体预览](https://github.com/p1aCoder/CSPT-Forend/blob/master/total.png)
 
-![Alt text](https://github.com/p1aCoder/CSPT-Forend/blob/master/search.png)
+#可以输入药品或疾病进行搜寻，绿色节点即为搜索到的节点。
+![搜索功能](https://github.com/p1aCoder/CSPT-Forend/blob/master/search.png)
 
 ## Project setup
 ```
