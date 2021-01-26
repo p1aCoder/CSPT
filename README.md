@@ -20,7 +20,7 @@
 
 可以输入药品或疾病进行搜寻，绿色节点即为搜索到的节点。
 
-![搜索功能](https://github.com/p1aCoder/CSPT-Forend/blob/master/search.png)
+![搜索功能展示](https://github.com/p1aCoder/CSPT-Forend/blob/master/search.png)
 
 ## Project setup
 ```
