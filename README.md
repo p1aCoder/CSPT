@@ -1,10 +1,16 @@
 # try
 
-药物警戒术语搜集系统
-前端部署(基于vue)
-打开try项目
-安装项目所有组件
-运行npm run serve
+# 药物警戒术语搜集系统
+
+1 前端部署(基于vue)
+
+2 打开try项目
+
+3 安装前端项目所有组件
+
+4 运行npm run serve
+
+5 访问8080端口
 
 后端项目地址：[https://github.com/p1aCoder/CSPT-Backend](https://github.com/p1aCoder/CSPT-Forend)
 
