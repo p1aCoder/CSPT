@@ -11,7 +11,7 @@
 
 4 访问8080端口
 
-此为前后端分离项目，所用技术栈为mongoDB+springboot+Vue
+此为前后端分离项目，所用技术栈为scrapy(爬虫)+mongoDB（数据库）+springboot（后端）+Vue（前端）
 后端项目地址：[https://github.com/p1aCoder/CSPT-Backend](https://github.com/p1aCoder/CSPT-Backend)
 
 该项目首先使用scrapy框架爬取某医学网站的疾病、药物以及使用禁忌等来构建知识图谱，并展示
